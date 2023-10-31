@@ -12,7 +12,7 @@ My Stack
 
 ----
 ## About me
-I am 17 years old. I showed interest to programming in young age. <br />
+I showed interest to programming in young age. <br />
 I started by drawing beautiful fractals, such as Dragon or Mandelbrot fractals. <br />
 Then I accidentally got Yandex.Practikum course about backend development and got really exited. <br /> 
 Now I am on my own, learning new stuff. For example frontend, ML and even gamedev. <br />
